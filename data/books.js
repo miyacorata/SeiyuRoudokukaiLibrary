@@ -33,12 +33,6 @@ var books = [
         "title": "おやすみなさい、またあした",
         "author": "井ノ上奈々",
         "seiyu": "井ノ上奈々,市来光弘",
-        "tweet_url": "https://twitter.com/KAJI__OFFICIAL/status/1247856499927289859"
-    },
-    {
-        "title": "おやすみなさい、またあした",
-        "author": "井ノ上奈々",
-        "seiyu": "井ノ上奈々,市来光弘",
         "tweet_url": "https://twitter.com/inouenana/status/1247895580786843648"
     },
     {
