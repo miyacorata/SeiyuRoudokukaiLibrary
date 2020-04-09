@@ -1,5 +1,5 @@
 # SeiyuRoudokukaiLibrary
-SeiyuRoudokukaiLibrary は、#せいゆうろうどくかい の本棚
+SeiyuRoudokukaiLibrary は、[#せいゆうろうどくかい](https://twitter.com/hashtag/%E3%81%9B%E3%81%84%E3%82%86%E3%81%86%E3%82%8D%E3%81%86%E3%81%A9%E3%81%8F%E3%81%8B%E3%81%84) の本棚となるべく開発されたHTMLページです。
 
 ![せいゆうろうどくかい](https://raw.githubusercontent.com/miyacorata/SeiyuRoudokukaiLibrary/images/logo.png)
 
@@ -11,7 +11,7 @@ SeiyuRoudokukaiLibrary は、#せいゆうろうどくかい の本棚
 
 ## Overview
 
-データの更新は手動ですがダウンロードしてきてお手元のパソコンで動かすことも可能です。
+データの更新は手動ですが、コードをダウンロードしてお手元のパソコンで動かすことも可能なように設計されています。HTMLが表示でき、JavaScriptが動作するブラウザであれば問題なく動作します。
 
 本リポジトリの内容は更新され次第すぐ [Netlify](https://seiyu-roudokukai.netlify.com/) にデプロイされます。
 
