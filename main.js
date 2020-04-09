@@ -46,4 +46,6 @@ document.addEventListener('DOMContentLoaded',()=>{
     books.forEach(book => {
         addBookElement('main',book);
     });
+    var booksLU = new Date(booksLastUpdate);
+    document.getElementById('lastUpdate').innerText = '最終更新 : ' + booksLU.toString();
 });
