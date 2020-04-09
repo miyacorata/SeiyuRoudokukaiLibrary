@@ -359,10 +359,16 @@ var books = [
         "seiyu": "髙宮千尋",
         "tweet_url": "https://twitter.com/chihiro_to_1000/status/1248176194035396610"
     },
+    {
+        "title": "どじょうと金魚",
+        "author": "小川未明",
+        "seiyu": "中村源太",
+        "tweet_url": "https://twitter.com/genta_5014/status/1248114157716570112"
+    },
 
 ];
 
-const booksLastUpdate = "2020-04-09T09:14:57.390Z";
+const booksLastUpdate = "2020-04-09T09:17:40.034Z";
 
 /* Template
 
