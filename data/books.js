@@ -80,7 +80,7 @@ var books = [
     {
         "title": "幸福が遠すぎたら",
         "author": "寺山修司",
-        "seiyu": "新人声優",
+        "seiyu": "太田彩華",
         "tweet_url": "https://twitter.com/ota__ayaka/status/1247944063573094401"
     },
     {
@@ -89,6 +89,85 @@ var books = [
         "seiyu": "琴音有波",
         "tweet_url": "https://twitter.com/kotone_akv/status/1247934110430982146"
     },
+    {
+        "title": "やまなし",
+        "author": "宮沢賢治",
+        "seiyu": "すさつな",
+        "tweet_url": "https://twitter.com/9y_vi/status/1247824531978219520"
+    },
+    {
+        "title": "飴だま",
+        "author": "新美南吉",
+        "seiyu": "伊藤拓海",
+        "tweet_url": "https://twitter.com/S_Ito_tak/status/1247829898481131523"
+    },
+    /*{
+        "title": "ねこのおはなし",
+        "author": "よこみぞゆり",    // 著作権の問題により掲載できません
+        "seiyu": "上池仁容",
+        "tweet_url": "https://twitter.com/1vu13LPK90dd3XK/status/1247962576354336769"
+    },*/
+    {
+        "title": "きのこ会議",
+        "author": "夢野久作",
+        "seiyu": "あきやまかおる",
+        "tweet_url": "https://twitter.com/hakokao/status/1248006222684422144"
+    },
+    {
+        "title": "雪の女王",
+        "author": "アンデルセン",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248042992067203072"
+    },
+    {
+        "title": "西遊記",
+        "author": "作者不詳",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248052339404967936"
+    },
+    {
+        "title": "星の王子様(あのときの王子くん)", // カッコ内は青空文庫図書カードに基づくものです
+        "author": "サン＝テグジュペリ",
+        "seiyu": "時計ウサギ",
+        "tweet_url": "https://twitter.com/tokeirabbit2/status/1248044479245946880"
+    },
+    {
+        "title": "ねずみの嫁入り",
+        "author": "楠山正雄",
+        "seiyu": "一条光",
+        "tweet_url": "https://twitter.com/IchijoHikari/status/1247879163513417729"
+    },
+    {
+        "title": "注文の多い料理店",
+        "author": "宮沢賢治",
+        "seiyu": "湯浅開登っ！",
+        "tweet_url": "https://twitter.com/yuasa_kaito__/status/1248073073502257152"
+    },
+    {
+        "title": "桃太郎",
+        "author": "不詳",
+        "seiyu": "劇団シアトリカルカンパニー",
+        "tweet_url": "https://twitter.com/KANAZYOGADEKIN/status/1248073782276718592"
+    },
+    {
+        "title": "関頭",
+        "author": "不詳",
+        "seiyu": "劇団シアトリカルカンパニー",
+        "tweet_url": "https://twitter.com/KANAZYOGADEKIN/status/1248073782276718592"
+    },
+    {
+        "title": "去年の木",
+        "author": "新美南吉",
+        "seiyu": "南條愛乃",
+        "tweet_url": "https://twitter.com/nanjolno/status/1248074523498270720"
+    },
+    {
+        "title": "人魚姫",
+        "author": "アンデルセン",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248077704613613568"
+    },
+
 ];
 
 /* Template
