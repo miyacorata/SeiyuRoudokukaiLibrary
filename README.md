@@ -1,6 +1,12 @@
 # SeiyuRoudokukaiLibrary
 #せいゆうろうどくかい の本棚
 
+データの更新は手動ですがダウンロードしてきてお手元のパソコンで動かすことも可能です。
+
+本リポジトリの内容は更新され次第すぐ [Netlify](https://seiyu-roudokukai.netlify.com/) にデプロイされます。
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/35fd60e9-7d71-441c-9bd7-491a398f2044/deploy-status)](https://app.netlify.com/sites/seiyu-roudokukai/deploys)
+
 ## License
 このソフトウェアはMITライセンスのもとで提供されています。
 
