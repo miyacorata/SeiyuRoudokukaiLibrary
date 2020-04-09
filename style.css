@@ -1,0 +1,116 @@
+header{
+    background: skyblue;
+    padding: 5px 20px;
+    border-radius: 3px;
+}
+header > h1{
+    margin: 0;
+    font-size: 35px;
+}
+
+nav{
+    display: flex;
+    align-content: space-between;
+}
+nav > a{
+    display: block;
+    text-decoration: none;
+    width: 100%;
+    font-size: 24px;
+    border-radius: 3px;
+    background: white;
+    margin: 5px;
+    padding: 3px;
+    text-align: center;
+}
+nav > a:hover{
+    background: #eee;
+}
+nav > a > span{
+    display: block;
+    color: dimgray;
+    font-size: 15px;
+}
+
+#share{
+    position: fixed;
+    top: -2px;
+    right: 15px;
+    padding: 6px 7px 0;
+    background: rgba(255,255,255,0.8);
+    border: solid 2px lightgray;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+details{
+    margin: 10px 0;
+    border: solid 5px brown;
+    padding: 10px 10px 10px 20px;
+}
+#about{
+    display: flex;
+    padding-top: 5px;
+}
+#about > div{
+    margin-right: 15px;
+}
+#about h2{
+    margin: 0 0 10px;
+    border-bottom: dashed 3px brown;
+}
+
+footer{
+    margin-top: 10px;
+    border-top: dashed 2px gray;
+    text-align: center;
+    padding: 10px;
+}
+footer > p{
+    margin: 0.3em 0;
+}
+footer > address{
+    font-size: 10px;
+}
+
+main{
+    text-align: center;
+}
+.book{
+    display: inline-block;
+    vertical-align: top;
+    border: solid 1px gray;
+    border-radius: 5px;
+    padding: 0 8px;
+    font-size: 20px;
+    margin: 10px;
+    width: 500px;
+}
+.book > h3{
+    margin: 5px 0 0;
+    padding-bottom: 5px;
+    border-bottom: dashed 1px gray;
+}
+
+.book > .meta{
+    padding: 7px 5px 0;
+}
+.book > .meta > span{
+    display: inline-block;
+    margin: 0 5px;
+    border: solid 1px skyblue;
+    background: rgba(173, 216, 230, 0.3);
+    border-radius: 3px;
+    padding: 0 4px;
+    font-size: 18px;
+}
+.book > .meta > span::before{
+    font-size: 13px;
+}
+.seiyu::before{
+    content: '朗読：';
+    
+}
+.author::before{
+    content: '作者：';
+}
