@@ -437,10 +437,40 @@ var books = [
         "seiyu": "蒼樹里緒",
         "tweet_url": "https://twitter.com/ao_rio/status/1248244448837787648"
     },
+    {
+        "title": "きのこ会議",
+        "author": "夢野久作",
+        "seiyu": "上田燿司",
+        "tweet_url": "https://twitter.com/yo_z_ueda/status/1248197793174319104"
+    },
+    {
+        "title": "猫の草紙",
+        "author": "楠山正雄",
+        "seiyu": "Rita",
+        "tweet_url": "https://twitter.com/Ritaco25/status/1248253882834157568"
+    },
+    {
+        "title": "記憶",
+        "author": "麻草郁",
+        "seiyu": "矢野くるみ",
+        "tweet_url": "https://twitter.com/yanokurumi/status/1248268244265271296"
+    },
+    {
+        "title": "オツベルと象",
+        "author": "宮沢賢治",
+        "seiyu": "くまかつみ",
+        "tweet_url": "https://twitter.com/kumakatsu0411/status/1248277852325203973"
+    },
+    {
+        "title": "おひさまのたまご",
+        "author": "エルサ・ベスコフ",
+        "seiyu": "川上千尋",
+        "tweet_url": "https://twitter.com/chihiroKWKM/status/1247861870670667776"
+    },
 
 ];
 
-const booksLastUpdate = "2020-04-09T14:10:10.096Z";
+const booksLastUpdate = "2020-04-09T16:36:29.208Z";
 
 /* Template
 
