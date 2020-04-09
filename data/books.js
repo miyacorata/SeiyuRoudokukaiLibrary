@@ -395,10 +395,52 @@ var books = [
         "seiyu": "穂積知佳",
         "tweet_url": "https://twitter.com/chika_ten_h/status/1248207193448386560"
     },
+    {
+        "title": "トロッコ",
+        "author": "芥川龍之介",
+        "seiyu": "稲村透",
+        "tweet_url": "https://twitter.com/t_inamura0913/status/1248224466536103936"
+    },
+    {
+        "title": "やまなし(二、十二月)",
+        "author": "宮沢賢治",
+        "seiyu": "ジャリソン",
+        "tweet_url": "https://twitter.com/garrison5da/status/1248226097927344129"
+    },
+    {
+        "title": "キャラメルと飴玉",
+        "author": "夢野久作",
+        "seiyu": "名塚佳織",
+        "tweet_url": "https://twitter.com/nazukakaori/status/1248230710059528195"
+    },
+    {
+        "title": "おおかみと七ひきのこどもやぎ",
+        "author": "グリム兄弟",
+        "seiyu": "豊崎愛生,高垣彩陽,寿美菜子,戸松遥",
+        "tweet_url": "https://twitter.com/sphere_PS/status/1248232435818496001"
+    },
+    {
+        "title": "猿蟹合戦",
+        "author": "芥川龍之介",
+        "seiyu": "桜木章人",
+        "tweet_url": "https://twitter.com/akito_sakuragi/status/1248235540954009602"
+    },
+    {
+        "title": "オタク向けの『アメニモマケズ』",
+        "author": "おのでらさん", // すごく微妙なラインの気がしています
+        "seiyu": "なす",
+        "tweet_url": "https://twitter.com/na_cil/status/1248237627548946432"
+    },
+    {
+        "title": "すやすやおやすみ",
+        "author": "森のえほん館編集部,倉沢はすみ",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248244448837787648"
+    },
 
 ];
 
-const booksLastUpdate = "2020-04-09T12:22:35.897Z";
+const booksLastUpdate = "2020-04-09T14:10:10.096Z";
 
 /* Template
 
