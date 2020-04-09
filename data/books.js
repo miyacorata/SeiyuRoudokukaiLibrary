@@ -87,7 +87,7 @@ var books = [
         "title": "かくれんぼ",
         "author": "村山籌子",
         "seiyu": "琴音有波",
-        "tweet_url": "https://twitter.com/kotone_akv/status/1247934110430982146"
+        "tweet_url": "https://twitter.com/kotone_akv/status/1248191171572236290"
     },
     {
         "title": "やまなし",
