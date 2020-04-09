@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded',()=>{
             books = books.reverse();
             viewType = '新しい順';
             break;
-        case 'shuffle':
+        /*case 'shuffle':
             for(let i = books.length - 1; i > 0; i--){
                 let r = Math.floor(Math.random() * (i + 1));
                 let tmp = books[i];
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded',()=>{
                 books[r] = tmp;
             }
             viewType = 'ランダム';
-            break;
+            break;*/
         default:
             console.log('default!');
             viewType = '登録された順';
