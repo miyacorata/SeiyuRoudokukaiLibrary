@@ -42,6 +42,7 @@ nav > a > span{
 
 #share{
     position: fixed;
+    z-index: 10;
     top: -2px;
     right: 15px;
     padding: 6px 7px 0;
@@ -54,7 +55,7 @@ nav > a > span{
 details{
     margin: 10px 0;
     border: solid 5px brown;
-    padding: 10px 10px 10px 20px;
+    padding: 10px 20px;
 }
 #about{
     display: flex;
@@ -66,6 +67,24 @@ details{
 #about h2{
     margin: 0 0 10px;
     border-bottom: dashed 3px brown;
+}
+#option > div{
+    padding-top: 10px;
+}
+
+fieldset{
+    padding: 10px 15px;
+}
+fieldset > a, .button {
+    padding: 2px 4px;
+    color: black;
+    text-decoration: none;
+    background: whitesmoke;
+    border: solid 1px gray;
+    margin: 0 3px;
+}
+fieldset > a:hover, .button:hover{
+    background: lightgray;
 }
 
 footer{

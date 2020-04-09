@@ -16,6 +16,7 @@
     <div id="infos">
         <span id="lastUpdate">最終更新：</span>
         <span id="booksCount">登録数：</span>
+        <span id="viewType">表示順：</span>
     </div>
     <nav>
         <a href="https://twitter.com/hashtag/%E3%81%9B%E3%81%84%E3%82%86%E3%81%86%E3%82%8D%E3%81%86%E3%81%A9%E3%81%8F%E3%81%8B%E3%81%84" target="_blank">
@@ -45,7 +46,7 @@
     </nav>
 </header>
 
-<details>
+<details style="padding: 10px 10px 10px 20px;">
     <summary>初めての方へ</summary>
     <div id="about">
         <div>
@@ -68,6 +69,18 @@
             </p>
         </div>
     </div>
+</details>
+<details id="option" style="border-color: #5abfb7;">
+    <summary>表示オプション</summary>
+    <div>
+        <fieldset>
+            <legend>表示順序の切り替え</legend>
+            <a href=".">登録された順</a>
+            <a href="?type=reverse">新しい順</a>
+            <a href="?type=random">ランダム</a>
+        </fieldset>
+    </div>
+    
 </details>
 
 <div id="share">
