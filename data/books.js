@@ -365,10 +365,40 @@ var books = [
         "seiyu": "中村源太",
         "tweet_url": "https://twitter.com/genta_5014/status/1248114157716570112"
     },
+    {
+        "title": "星の銀貨",
+        "author": "グリム兄弟",
+        "seiyu": "荒井杏子",
+        "tweet_url": "https://twitter.com/arai_kyoko/status/1248201896889741312"
+    },
+    {
+        "title": "きつねと団子",
+        "author": "石燕鴎",
+        "seiyu": "穂積知佳",
+        "tweet_url": "https://twitter.com/chika_ten_h/status/1248206278515539968"
+    },
+    {
+        "title": "カラタチ",
+        "author": "石川かおり",
+        "seiyu": "穂積知佳",
+        "tweet_url": "https://twitter.com/chika_ten_h/status/1248206577166778368"
+    },
+    {
+        "title": "はにわさん",
+        "author": "へにゃらぽっちぽー",
+        "seiyu": "穂積知佳",
+        "tweet_url": "https://twitter.com/chika_ten_h/status/1248206940783575041"
+    },
+    {
+        "title": "星の海のアリス",
+        "author": "穂積知佳",
+        "seiyu": "穂積知佳",
+        "tweet_url": "https://twitter.com/chika_ten_h/status/1248207193448386560"
+    },
 
 ];
 
-const booksLastUpdate = "2020-04-09T09:17:40.034Z";
+const booksLastUpdate = "2020-04-09T12:22:35.897Z";
 
 /* Template
 
