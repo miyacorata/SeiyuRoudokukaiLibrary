@@ -1,5 +1,15 @@
 # SeiyuRoudokukaiLibrary
-#せいゆうろうどくかい の本棚
+SeiyuRoudokukaiLibrary は、#せいゆうろうどくかい の本棚
+
+![せいゆうろうどくかい](https://raw.githubusercontent.com/miyacorata/SeiyuRoudokukaiLibrary/images/logo.png)
+
+## Quick start
+
+* なにか問題が発生しましたか？ => [New Issue](https://github.com/miyacorata/SeiyuRoudokukaiLibrary/issues/new/choose)
+  * 作品の追加リクエスト、情報の訂正リクエストはこちらにお寄せください。
+* このプロジェクトに貢献したいですか？ => See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Overview
 
 データの更新は手動ですがダウンロードしてきてお手元のパソコンで動かすことも可能です。
 
