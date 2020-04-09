@@ -48,4 +48,6 @@ document.addEventListener('DOMContentLoaded',()=>{
     });
     var booksLU = new Date(booksLastUpdate);
     document.getElementById('lastUpdate').innerText = '最終更新 : ' + booksLU.toString();
+    var booksCount = books.length;
+    document.getElementById('booksCount').innerText = '登録数：' + booksCount;
 });

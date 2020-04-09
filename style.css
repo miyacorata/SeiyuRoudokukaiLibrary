@@ -8,6 +8,14 @@ header > h1{
     font-size: 35px;
 }
 
+#infos > span{
+    display: inline-block;
+    background: rgba(255,255,255,0.8);
+    padding: 1px 8px;
+    margin-right: 4px;
+    border-radius: 3px;
+}
+
 nav{
     display: flex;
     align-content: space-between;
