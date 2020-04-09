@@ -170,6 +170,8 @@ var books = [
 
 ];
 
+const booksLastUpdate = "2020-04-09T03:00:16.069Z";
+
 /* Template
 
 {
