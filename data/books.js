@@ -636,10 +636,29 @@ var books = [
         "seiyu": "丸山ナオミ",
         "tweet_url": "https://twitter.com/ma_ru_naomi/status/1248583417823760385"
     },
+    {
+        "title": "あし",
+        "author": "新美南吉",
+        "seiyu": "桜木章人",
+        "tweet_url": "https://twitter.com/akito_sakuragi/status/1248616960608186369"
+    },
+    {
+        "title": "和尚さんと小僧 二",
+        "author": "楠山正雄",
+        "seiyu": "平田えみ",
+        "tweet_url": "https://twitter.com/mimimimiking9/status/1248626812571103234"
+    },
+    {
+        "title": "がちゃがちゃ",
+        "author": "夢野久作",
+        "seiyu": "瀧本富士子",
+        "tweet_url": "https://twitter.com/inkarose77/status/1248688868783575042"
+    },
+
 
 ];
 
-const booksLastUpdate = "2020-04-10T12:30:43.996Z";
+const booksLastUpdate = "2020-04-10T22:03:15.863Z";
 
 /* Template
 
