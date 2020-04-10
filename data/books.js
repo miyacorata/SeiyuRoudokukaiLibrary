@@ -467,10 +467,143 @@ var books = [
         "seiyu": "川上千尋",
         "tweet_url": "https://twitter.com/chihiroKWKM/status/1247861870670667776"
     },
+    {
+        "title": "飴だま",
+        "author": "新美南吉",
+        "seiyu": "川原慶久,佐土原かおり",
+        "tweet_url": "https://twitter.com/nekemodamstar/status/1248296416146907136",  // 川原慶久さん
+        //"tweet_url": "https://twitter.com/sadoharakaori/status/1248296996521181184" // 佐土原かおりさん
+    },
+    {
+        "title": "あめくん",
+        "author": "村山籌子",
+        "seiyu": "園崎未恵",
+        "tweet_url": "https://twitter.com/Sonozaki_mie/status/1248299549765947392"
+    },
+    {
+        "title": "死なない蛸",
+        "author": "萩原俊太郎",
+        "seiyu": "あきやまかおる",
+        "tweet_url": "https://twitter.com/hakokao/status/1248334410119696384"
+    },
+    {
+        "title": "オズの魔法使い",
+        "author": "ライマン・フランク・ボーム",
+        "seiyu": "安田愛実, 他",
+        "tweet_url": "https://twitter.com/aimi_aibo/status/1248383388563587072"
+    },
+    {
+        "title": "桃太郎",
+        "author": "楠山正雄",
+        "seiyu": "ネコおじ",
+        "tweet_url": "https://twitter.com/nekooji1103/status/1248385762413826057"
+    },
+    {
+        "title": "ねずみの嫁入り",
+        "author": "楠山正雄",
+        "seiyu": "加藤雅人",
+        "tweet_url": "https://twitter.com/miyabi6411/status/1248409527008899072"
+    },
+    /*{
+        "title": "ほらふき男爵 シカのサクランボウ",
+        "author": "福娘童話集（ビュルガーの童話)",
+        "seiyu": "長島真祐",  // 著作権の問題により掲載できません
+        "tweet_url": "https://twitter.com/akibaron/status/1248420079949115393"
+    },*/
+    {
+        "title": "やまなし",
+        "author": "宮沢賢治",
+        "seiyu": "日高のり子",
+        "tweet_url": "https://twitter.com/nonko_hidaka531/status/1248445598195277825"
+    },
+    {
+        "title": "むりつむり",
+        "author": "鈴",
+        "seiyu": "内田彩",
+        "tweet_url": "https://twitter.com/aya_uchida/status/1248446855668588545"
+    },
+    {
+        "title": "金太郎",
+        "author": "倉沢はすみ",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248449702846066688"
+    },
+    {
+        "title": "さるかに合戦",
+        "author": "倉沢はすみ",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248451624227360768"
+    },
+    {
+        "title": "注文の多い料理店",
+        "author": "宮沢賢治",
+        "seiyu": "安野朱璃",
+        "tweet_url": "https://twitter.com/akari_anno/status/1248454068537659394"
+    },
+    {
+        "title": "マッチ売りの少女",
+        "author": "アンデルセン",
+        "seiyu": "添心",
+        "tweet_url": "https://twitter.com/tenshi10422/status/1248455336324771842"
+    },
+    {
+        "title": "かぐや姫",
+        "author": "平井里奈",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248457846917750786"
+    },
+    {
+        "title": "ねずみのすもう",
+        "author": "石原桃子 (新潟県民話より)",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248460837569757190"
+    },
+    {
+        "title": "夢十夜　〜第一夜〜",
+        "author": "夏目漱石",
+        "seiyu": "じゅんぺい",
+        "tweet_url": "https://twitter.com/Junpei_peiJun/status/1248499558889345025"
+    },
+    {
+        "title": "電信柱と妙な男",
+        "author": "小川未明",
+        "seiyu": "菱田盛之",
+        "tweet_url": "https://twitter.com/Nurikabesan/status/1248499982354632704"
+    },
+    {
+        "title": "お化けとまちがえた話",
+        "author": "小川未明",
+        "seiyu": "狐崎あやめ",
+        "tweet_url": "https://twitter.com/kozakiayame/status/1248508394761121797"
+    },
+    {
+        "title": "浦島太郎",
+        "author": "楠山正雄",
+        "seiyu": "かみいけまさよし",
+        "tweet_url": "https://twitter.com/1vu13LPK90dd3XK/status/1248520325823782913"
+    },
+    {
+        "title": "キャラメルと飴玉",
+        "author": "夢野久作",
+        "seiyu": "寳田真奈美",
+        "tweet_url": "https://twitter.com/mana_dreamingir/status/1248528226944561152"
+    },
+    {
+        "title": "星の銀貨",
+        "author": "グリム兄弟",
+        "seiyu": "佐藤瑞花",
+        "tweet_url": "https://twitter.com/mzk48_310/status/1248529970105704453"
+    },
+    {
+        "title": "はちとくま",
+        "author": "村山籌子",
+        "seiyu": "橋爪紋佳",
+        "tweet_url": "https://twitter.com/kuma_ga_suki/status/1248534184303312896"
+    },
 
 ];
 
-const booksLastUpdate = "2020-04-09T16:36:29.208Z";
+const booksLastUpdate = "2020-04-10T09:43:03.887Z";
 
 /* Template
 
