@@ -339,7 +339,7 @@ var books = [
         "title": "雨ニモマケズ",
         "author": "宮沢賢治",
         "seiyu": "森脇陸三",
-        "tweet_url": "https://twitter.com/crazybox_staff/status/1248161857585569792"
+        "tweet_url": "https://twitter.com/crazybox_staff/status/1248224101195337728"
     },
     {
         "title": "注文の多い料理店",
@@ -600,10 +600,46 @@ var books = [
         "seiyu": "橋爪紋佳",
         "tweet_url": "https://twitter.com/kuma_ga_suki/status/1248534184303312896"
     },
+    {
+        "title": "星の銀貨",
+        "author": "グリム兄弟",
+        "seiyu": "岬更夜",
+        "tweet_url": "https://twitter.com/misaki_koya/status/1248548043579748352"
+    },
+    {
+        "title": "幸福",
+        "author": "島崎藤村",
+        "seiyu": "黒沢季希",
+        "tweet_url": "https://twitter.com/kuro_toshiki/status/1248553811276255234"
+    },
+    {
+        "title": "ある男と無花果",
+        "author": "小川未明",
+        "seiyu": "安田桂",
+        "tweet_url": "https://twitter.com/canarypro_staff/status/1248555983447543810"
+    },
+    {
+        "title": "小人のくつ屋さん",
+        "author": "グリム兄弟",
+        "seiyu": "山根咲智",
+        "tweet_url": "https://twitter.com/sakichi_103/status/1248566818542739457"
+    },
+    {
+        "title": "いーちゃんとうさぎのウー",
+        "author": "井ノ上奈々",
+        "seiyu": "市来光弘,井ノ上奈々",
+        "tweet_url": "https://twitter.com/inouenana/status/1248581089838288896"
+    },
+    {
+        "title": "キャラメルと飴玉",
+        "author": "夢野久作",
+        "seiyu": "丸山ナオミ",
+        "tweet_url": "https://twitter.com/ma_ru_naomi/status/1248583417823760385"
+    },
 
 ];
 
-const booksLastUpdate = "2020-04-10T09:43:03.887Z";
+const booksLastUpdate = "2020-04-10T12:30:43.996Z";
 
 /* Template
 
