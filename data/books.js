@@ -654,7 +654,74 @@ var books = [
         "seiyu": "瀧本富士子",
         "tweet_url": "https://twitter.com/inkarose77/status/1248688868783575042"
     },
+    {
+        "title": "枕草子",
+        "author": "清少納言",
+        "seiyu": "園崎未恵",
+        "tweet_url": "https://twitter.com/Sonozaki_mie/status/1248774391598473216"
+    },
+    {
+        "title": "星の銀貨",
+        "author": "グリム兄弟",
+        "seiyu": "早乙女マイラ",
+        "tweet_url": "https://twitter.com/mairaSaotome/status/1248785113527115776"
+    },
+    {
+        "title": "あし",
+        "author": "新美南吉",
+        "seiyu": "床井美紀",
+        "tweet_url": "https://twitter.com/toko_yamato/status/1248788875776012288"
+    },
+    /*{
+        "title": "猫街連合",
+        "author": "",  // 作者不詳です 後ほど調べて掲載します
+        "seiyu": "床井美紀",
+        "tweet_url": "https://twitter.com/toko_yamato/status/1248788987852009473"
+    },*/
+    {
+        "title": "やまなし",
+        "author": "宮沢賢治",
+        "seiyu": "小街かのん",
+        "tweet_url": "https://twitter.com/kyanonn22/status/1248790856707919872"
+    },
+    {
+        "title": "ねずみの嫁入り",
+        "author": "楠山正雄",
+        "seiyu": "わたなべかずひろ",
+        "tweet_url": "https://twitter.com/watahi8392/status/1248802779415457792"
+    },
+    {
+        "title": "ドン",
+        "author": "夢野久作",
+        "seiyu": "上間江望",
+        "tweet_url": "https://twitter.com/uemaemi/status/1248811353927593984"
+    },
+    {
+        "title": "ねずみの嫁入り",
+        "author": "楠山正雄",
+        "seiyu": "樋口亜見,小林崇也",
+        "tweet_url": "https://twitter.com/kintami315/status/1248830268611260416"
+    },
+    {
+        "title": "あひるさんのくつ",
+        "author": "村山籌子",
+        "seiyu": "井上喜久子",
+        "tweet_url": "https://twitter.com/atmanbow_staff/status/1248864994592051201"
+    },
+    {
+        "title": "きのこ会議",
+        "author": "夢野久作",
+        "seiyu": "天ノ崎稜奈",
+        "tweet_url": "https://twitter.com/kamococo_tanuki/status/1248870290198687744"
+    },
+    {
+        "title": "ネコとネズミのいっしょの暮らし",
+        "author": "グリム兄弟",
+        "seiyu": "YU-A☆",
+        "tweet_url": "https://twitter.com/matyan96nyanko/status/1248873955433181184"
+    },
 
+    // TODO: 蒼樹里緒さん作品 因幡の白兎以降の追加
 
 ];
 
