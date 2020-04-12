@@ -898,7 +898,7 @@ var books = [
 
 ];
 
-const booksLastUpdate = "2020-04-10T22:03:15.863Z";
+const booksLastUpdate = "2020-04-12T04:39:43.883Z";
 
 /* Template
 
