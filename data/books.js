@@ -720,8 +720,181 @@ var books = [
         "seiyu": "YU-A☆",
         "tweet_url": "https://twitter.com/matyan96nyanko/status/1248873955433181184"
     },
+    {
+        "title": "因幡の白兎",
+        "author": "日本昔話",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248801260418957316"
+    },
+    {
+        "title": "だいこん にんじん ごぼう",
+        "author": "倉沢はすみ",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248802507662323713"
+    },
+    {
+        "title": "一休さん",
+        "author": "平井里奈",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248803485207822336"
+    },
+    {
+        "title": "姥捨て山",
+        "author": "石原桃子",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248833847187230720"
+    },
+    {
+        "title": "天岩戸",
+        "author": "平井里奈",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248837947702431744"
+    },
+    {
+        "title": "猫又屋敷",
+        "author": "平井里奈",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248855538902810624"
+    },
+    {
+        "title": "貧乏神と福の神",
+        "author": "平井里奈",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248856638972293120"
+    },
+    {
+        "title": "天狗の隠れ蓑",
+        "author": "平井里奈",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248858018596315137"
+    },
+    {
+        "title": "見るなの座敷",
+        "author": "平井里奈",
+        "seiyu": "蒼樹里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1248801260418957316"
+    },
+    {
+        "title": "よだかの星",
+        "author": "宮沢賢治",
+        "seiyu": "arashio",
+        "tweet_url": "https://twitter.com/AraShio7350/status/1248854704592785408"
+    },
+    {
+        "title": "どろぼう猫",
+        "author": "夢野久作",
+        "seiyu": "山上佳之介,山上暁之進",
+        "tweet_url": "https://twitter.com/Yamagami_B/status/1248899854924832769"
+    },
+    {
+        "title": "二ひきの蛙",
+        "author": "新美南吉",
+        "seiyu": "矢尾幸子,角田雄二郎",
+        "tweet_url": "https://twitter.com/yuk1_ya0/status/1248922922359517185"
+    },
+    {
+        "title": "銀河鉄道の夜(一 午后の授業)",
+        "author": "宮沢賢治",
+        "seiyu": "葉良",
+        "tweet_url": "https://twitter.com/Enuma_elithyu/status/1248932329306738689"
+    },
+    {
+        "title": "幸福(しあわせ)",
+        "author": "島崎藤村",
+        "seiyu": "田中音緒",
+        "tweet_url": "https://twitter.com/neo_tanaka_/status/1248935372395929601"
+    },
+    {
+        "title": "星の銀貨",
+        "author": "グリム兄弟",
+        "seiyu": "神月響巴",
+        "tweet_url": "https://twitter.com/mitsuhiro_tada/status/1248939498865438720"
+    },
+    {
+        "title": "ありときのこ",
+        "author": "宮沢賢治",
+        "seiyu": "鳥羽優好",
+        "tweet_url": "https://twitter.com/yukotori/status/1248940292050276356"
+    },
+    {
+        "title": "里の春、山の春",
+        "author": "新美南吉",
+        "seiyu": "向日葵なっつ",
+        "tweet_url": "https://twitter.com/himanattu72/status/1248952238040436737"
+    },
+    {
+        "title": "たけのこ",
+        "author": "新美南吉",
+        "seiyu": "菱田盛之",
+        "tweet_url": "https://twitter.com/Nurikabesan/status/1248966659114586117"
+    },
+    {
+        "title": "狐のつかい",
+        "author": "新美南吉",
+        "seiyu": "白河みずな",
+        "tweet_url": "https://twitter.com/mizuna_Skawa/status/1248977273652252678"
+    },
+    {
+        "title": "赤ずきんと狼 もうひとつの物語",
+        "author": "佐久間レイ",
+        "seiyu": "佐久間レイ",
+        "tweet_url": "https://twitter.com/REISAN_no_HEYA/status/1248978602256818176"
+    },
+    {
+        "title": "月夜のでんしんばしら",
+        "author": "宮沢賢治",
+        "seiyu": "川原慶久",
+        "tweet_url": "https://twitter.com/nekemodamstar/status/1249001722682327040"
+    },
+    {
+        "title": "マッチ売りの少女",
+        "author": "ハンス・クリスチャン・アンデルセン",
+        "seiyu": "板谷彩香",
+        "tweet_url": "https://twitter.com/oishiicacao/status/1249018451420516356"
+    },
+    {
+        "title": "星の銀貨",
+        "author": "グリム兄弟",
+        "seiyu": "鈴木南名子",
+        "tweet_url": "https://twitter.com/7suzukinak0/status/1249076656892862464"
+    },
+    {
+        "title": "ねずみの嫁入り",
+        "author": "楠山正雄",
+        "seiyu": "恒松あゆみ",
+        "tweet_url": "https://twitter.com/amyonn/status/1249141645511135232"
+    },
+    {
+        "title": "星の銀貨",
+        "author": "グリム兄弟",
+        "seiyu": "ささきのぞみ",
+        "tweet_url": "https://twitter.com/nozooooo/status/1249154561069264897"
+    },
+    {
+        "title": "青水仙、赤水仙",
+        "author": "夢野久作",
+        "seiyu": "中臣真菜",
+        "tweet_url": "https://twitter.com/nakatommy_mana/status/1249156582023233536"
+    },
+    {
+        "title": "赤い蝋燭",
+        "author": "新美南吉",
+        "seiyu": "葵井歌菜",
+        "tweet_url": "https://twitter.com/kana_aoi_kana/status/1249154809581711360"
+    },
+    {
+        "title": "二ひきの蛙",
+        "author": "新美南吉",
+        "seiyu": "貝原怜奈,多村彩美",
+        "tweet_url": "https://twitter.com/kaiharareina/status/1249174018005098498"
+    },
+    {
+        "title": "ねずみのよめいり",
+        "author": "楠山正雄",
+        "seiyu": "よーこ",
+        "tweet_url": "https://twitter.com/sun_y0k0/status/1249179529173663744"
+    },
 
-    // TODO: 蒼樹里緒さん作品 因幡の白兎以降の追加
 
 ];
 
