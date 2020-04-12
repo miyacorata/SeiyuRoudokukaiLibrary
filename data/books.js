@@ -894,11 +894,95 @@ var books = [
         "seiyu": "よーこ",
         "tweet_url": "https://twitter.com/sun_y0k0/status/1249179529173663744"
     },
+    {
+        "title": " 今昔物語集 信濃守藤原陳忠御坂より落ち入ること", // 巻28第38
+        "author": "不詳",
+        "seiyu": "藤本たかひろ",
+        "tweet_url": "https://twitter.com/TAKAPIROjapan/status/1249201865801244680"
+    },
+    {
+        "title": "伊勢物語 段一 初冠",
+        "author": "不詳",
+        "seiyu": "藤本たかひろ",
+        "tweet_url": "https://twitter.com/TAKAPIROjapan/status/1249207489964490753"
+    },
+    {
+        "title": "デンデンムシノカナシミ",
+        "author": "新美南吉",
+        "seiyu": "辻あゆみ",
+        "tweet_url": "https://twitter.com/tsuji_ayumi/status/1249246214781988864"
+    },
+    {
+        "title": "赤とんぼ",
+        "author": "新美南吉",
+        "seiyu": "薫織",
+        "tweet_url": "https://twitter.com/2HYKBlIJrIv2Jhk/status/1249261062077050880"
+    },
+    {
+        "title": "手紙 一",
+        "author": "宮沢賢治",
+        "seiyu": "丸山ナオミ",
+        "tweet_url": "https://twitter.com/ma_ru_naomi/status/1249271664891719681"
+    },
+    {
+        "title": "夢十夜",
+        "author": "夏目漱石",
+        "seiyu": "平田えみ",
+        "tweet_url": "https://twitter.com/mimimimiking9/status/1249289278674186244"
+    },
+    {
+        "title": "ナガレボシ",
+        "author": "新美南吉",
+        "seiyu": "上間江望",
+        "tweet_url": "https://twitter.com/uemaemi/status/1249295047566036992"
+    },
+    {
+        "title": "ねことおしるこ",
+        "author": "小川未明",
+        "seiyu": "大谷美貴",
+        "tweet_url": "https://twitter.com/Miki_Ohtani1017/status/1249310600359890944"
+    },
+    {
+        "title": "キャラメルと飴玉",
+        "author": "夢野久作",
+        "seiyu": "菱田盛之",
+        "tweet_url": "https://twitter.com/Nurikabesan/status/1249322692508975105"
+    },
+    {
+        "title": "星の銀貨",
+        "author": "グリム兄弟",
+        "seiyu": "篠崎愛",
+        "tweet_url": "https://twitter.com/0sh1n0/status/1249326588082057221"
+    },
+    {
+        "title": "チャールズ・ダーウィン",
+        "author": "石原純",
+        "seiyu": "逢阪えま",
+        "tweet_url": "https://twitter.com/emma_osaka/status/1249331120686026753"
+    },
+    {
+        "title": "オシャベリ姫",
+        "author": "夢野久作",
+        "seiyu": "新谷真弓",
+        "tweet_url": "https://twitter.com/shintanimayumi/status/1249338287224786945"
+    },
+    {
+        "title": "デンデンムシノカナシミ",
+        "author": "園崎未恵",
+        "seiyu": "新美南吉",
+        "tweet_url": "https://twitter.com/Sonozaki_mie/status/1249376388605308928"
+    },
+    {
+        "title": "杜子春",
+        "author": "芥川龍之介",
+        "seiyu": "藤村ひろ",
+        "tweet_url": "https://twitter.com/fujihiro0916/status/1249390635099934720"
+    },
 
 
 ];
 
-const booksLastUpdate = "2020-04-12T04:39:43.883Z";
+const booksLastUpdate = "2020-04-12T17:54:17.170Z";
 
 /* Template
 
