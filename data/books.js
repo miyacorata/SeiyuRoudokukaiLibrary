@@ -978,11 +978,269 @@ var books = [
         "seiyu": "藤村ひろ",
         "tweet_url": "https://twitter.com/fujihiro0916/status/1249390635099934720"
     },
+    {
+        "title": "蜘蛛の糸",
+        "author": "芥川龍之介",
+        "seiyu": "小野原蒼",
+        "tweet_url": "https://twitter.com/onoharaofficial/status/1249482344097910787"
+    },
+    {
+        "title": "賢者の贈り物",
+        "author": "オー・ヘンリー",
+        "seiyu": "ささきのぞみ",
+        "tweet_url": "https://twitter.com/nozooooo/status/1249520933838045184"
+    },
+    {
+        "title": "たけのこ",
+        "author": "新美南吉",
+        "seiyu": "真田アサミ",
+        "tweet_url": "https://twitter.com/AsamiSanada/status/1249522899532177408"
+    },
+    {
+        "title": "パッチン チョキチョキ",
+        "author": "井ノ上奈々",
+        "seiyu": "井ノ上奈々",
+        "tweet_url": "https://twitter.com/inouenana/status/1249534309930680320"
+    },
+    {
+        "title": "星の銀貨",
+        "author": "グリム兄弟",
+        "seiyu": "小林崇也,樋口亜見",
+        "tweet_url": "https://twitter.com/kintami315/status/1249574233929207809"
+    },
+    {
+        "title": "雨ニモマケズ",
+        "author": "宮沢賢治",
+        "seiyu": "星野健一",
+        "tweet_url": "https://twitter.com/ayanokiryu1003/status/1249588844569047040"
+    },
+    {
+        "title": "猫の事務所",
+        "author": "宮沢賢治",
+        "seiyu": "江越彬紀",
+        "tweet_url": "https://twitter.com/akiakidays/status/1249611474906959872"
+    },
+    {
+        "title": "太陽は見ている",
+        "author": "黒崎真音",
+        "seiyu": "朱南レイ",
+        "tweet_url": "https://twitter.com/SunamiRei/status/1249614002876854272"
+    },
+    {
+        "title": "ああしんど",
+        "author": "池田蕉園",
+        "seiyu": "上間江望",
+        "tweet_url": "https://twitter.com/uemaemi/status/1249624151230304259"
+    },
+    {
+        "title": "ねずみの嫁入り",
+        "author": "楠山正雄",
+        "seiyu": "久留ゆう",
+        "tweet_url": "https://twitter.com/bell_flOwer58/status/1249638753104039938"
+    },
+    {
+        "title": "小人のくつ屋さん",
+        "author": "グリム兄弟",
+        "seiyu": "よしはたゆうこ",
+        "tweet_url": "https://twitter.com/aquatanakaz/status/1249646369104486400"
+    },
+    {
+        "title": "自我ぜんまい, 彼岸花の教導, 笛吹き地蔵",
+        "author": "片喰藤火",
+        "seiyu": "蒼樹,里緒",
+        "tweet_url": "https://twitter.com/ao_rio/status/1249661107318468609"
+    },
+    {
+        "title": "狐のつかい",
+        "author": "新美南吉",
+        "seiyu": "勝又綾嘩",
+        "tweet_url": "https://twitter.com/xayatnx/status/1249662375336140801"
+    },
+    {
+        "title": "伊勢物語 段二「西の京」",
+        "author": "不詳",
+        "seiyu": "藤本たかひろ",
+        "tweet_url": "https://twitter.com/TAKAPIROjapan/status/1249668976952487937"
+    },
+    {
+        "title": "デンデンムシノカナシミ",
+        "author": "新美南吉",
+        "seiyu": "楠戸康弘",
+        "tweet_url": "https://twitter.com/desu_tene/status/1249669267424866304"
+    },
+    {
+        "title": "野ばら",
+        "author": "小川未明",
+        "seiyu": "佐藤瑠伊",
+        "tweet_url": "https://twitter.com/Rui_sato8822/status/1249673257998929928"
+    },
+    {
+        "title": "ごんぎつね",
+        "author": "新美南吉",
+        "seiyu": "森脇陸三",
+        "tweet_url": "https://twitter.com/crazybox_staff/status/1249675219146403841"
+    },
+    {
+        "title": "キャラメルと飴玉",
+        "author": "夢野久作",
+        "seiyu": "平本雄,大川颯太",
+        "tweet_url": "https://twitter.com/kawa_i_so/status/1249681575970623488"
+    },
+    {
+        "title": "あし",
+        "author": "新美南吉",
+        "seiyu": "宮世真理子",
+        "tweet_url": "https://twitter.com/miya_mari38/status/1249689715688652800"
+    },
+    {
+        "title": "指環",
+        "author": "江戸川乱歩",
+        "seiyu": "菱田盛之",
+        "tweet_url": "https://twitter.com/Nurikabesan/status/1249691716090597377"
+    },
+    {
+        "title": "侵入者",
+        "author": "ねこみみ",
+        "seiyu": "丸山ナオミ",
+        "tweet_url": "https://twitter.com/ma_ru_naomi/status/1249697764608368647"
+    },
+    {
+        "title": "走れメロス",
+        "author": "太宰治",
+        "seiyu": "金野優樹",
+        "tweet_url": "https://twitter.com/shoujiz/status/1249707137304891398"
+    },
+    {
+        "title": "赤とんぼ",
+        "author": "新美南吉",
+        "seiyu": "葵井歌菜",
+        "tweet_url": "https://twitter.com/kana_aoi_kana/status/1249834935675957248"
+    },
+    {
+        "title": "星の王子様(LE PETIT PRINCE)",
+        "author": "サン・テグジュペリ",
+        "seiyu": "悠木碧",
+        "tweet_url": "https://twitter.com/staff_aoi/status/1249864983640297474"
+    },
+    {
+        "title": "ネコとネズミのいっしょのくらし",
+        "author": "グリム兄弟",
+        "seiyu": "ささきのぞみ",
+        "tweet_url": "https://twitter.com/nozooooo/status/1249865376122339328"
+    },
+    {
+        "title": "月夜のかくれんぼ",
+        "author": "槙本楠郎",
+        "seiyu": "八城まゆ",
+        "tweet_url": "https://twitter.com/mayu_yashiro/status/1249892466230095873"
+    },
+    {
+        "title": "たけのこ",
+        "author": "槇本楠郎",
+        "seiyu": "芦原光",
+        "tweet_url": "https://twitter.com/AshiharaE/status/1249921797396369408"
+    },
+    {
+        "title": "にんじんとごぼうとだいこん",
+        "author": "(日本民話)",
+        "seiyu": "三本美里, 羽野だい豆, 他",
+        "tweet_url": "https://twitter.com/daishirohano/status/1249924951391588352"
+    },
+    {
+        "title": "みずたまちゃん",
+        "author": "たむらゆり",
+        "seiyu": "たむらゆり",
+        "tweet_url": "https://twitter.com/yuriri_36/status/1247721045890453504"
+    },
+    {
+        "title": "浦島太郎",
+        "author": "楠山正雄",
+        "seiyu": "上池仁容",
+        "tweet_url": "https://twitter.com/1vu13LPK90dd3XK/status/1249948180457771018"
+    },
+    {
+        "title": "聖人プログラム",
+        "author": "渡辺浩弐",
+        "seiyu": "秋長由佳梨",
+        "tweet_url": "https://twitter.com/akinaga_yukari/status/1249986798777815040"
+    },
+    {
+        "title": "蜘蛛の糸",
+        "author": "芥川龍之介",
+        "seiyu": "石狩勇気",
+        "tweet_url": "https://twitter.com/ishikari_yuki/status/1249989122787143680"
+    },
+    {
+        "title": "注文の多い料理店",
+        "author": "宮沢賢治",
+        "seiyu": "石狩勇気",
+        "tweet_url": "https://twitter.com/ishikari_yuki/status/1249989387565162497"
+    },
+    {
+        "title": "イチョウの実",
+        "author": "宮沢賢治",
+        "seiyu": "深月みな",
+        "tweet_url": "https://twitter.com/_mizuki37/status/1249993341258752005"
+    },
+    {
+        "title": "懐中時計",
+        "author": "夢野久作",
+        "seiyu": "天ヶ瀬カズマ",
+        "tweet_url": "https://twitter.com/aMAGAsekazuma/status/1249995316763361287"
+    },
+    {
+        "title": "幸福",
+        "author": "島崎藤村",
+        "seiyu": "相沢空",
+        "tweet_url": "https://twitter.com/Sora_Aizawa4/status/1249995548548943873"
+    },
+    {
+        "title": "お金とピストル",
+        "author": "夢野久作",
+        "seiyu": "菱田盛之",
+        "tweet_url": "https://twitter.com/Nurikabesan/status/1250003281482371072"
+    },
+    {
+        "title": "星の銀貨",
+        "author": "楠山正雄",
+        "seiyu": "遠藤広之",
+        "tweet_url": "https://twitter.com/endo_hiroyuki_f/status/1250008991884693504"
+    },
+    {
+        "title": "どじょうと金魚",
+        "author": "小川未明",
+        "seiyu": "翁丸",
+        "tweet_url": "https://twitter.com/okinamint/status/1250016197921259521"
+    },
+    {
+        "title": "どんぐりと山猫",
+        "author": "宮沢賢治",
+        "seiyu": "金澤まい, 橋本ちなみ",
+        "tweet_url": "https://twitter.com/chinamai_radio/status/1250017487095091201"
+    },
+    {
+        "title": "星の銀貨",
+        "author": "グリム兄弟",
+        "seiyu": "丸山ナオミ",
+        "tweet_url": "https://twitter.com/ma_ru_naomi/status/1250017733455966211"
+    },
+    {
+        "title": "ありときのこ",
+        "author": "宮沢賢治",
+        "seiyu": "桜木章人",
+        "tweet_url": "https://twitter.com/akito_sakuragi/status/1250022328752205824"
+    },
+    {
+        "title": "声は音",
+        "author": "麻草郁",
+        "seiyu": "麻草郁",
+        "tweet_url": "https://twitter.com/asakusan/status/1250042920821903361"
+    },
 
 
 ];
 
-const booksLastUpdate = "2020-04-12T17:54:17.170Z";
+const booksLastUpdate = "2020-04-14T13:00:52.093Z";
 
 /* Template
 
