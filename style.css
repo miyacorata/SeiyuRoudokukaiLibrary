@@ -63,6 +63,7 @@ details{
 }
 #about > div{
     margin-right: 15px;
+    width: 100%;
 }
 #about h2{
     margin: 0 0 10px;
