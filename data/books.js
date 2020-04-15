@@ -1236,11 +1236,101 @@ var books = [
         "seiyu": "麻草郁",
         "tweet_url": "https://twitter.com/asakusan/status/1250042920821903361"
     },
+    {
+        "title": "飴だま",
+        "author": "新美南吉",
+        "seiyu": "柏坂真史",
+        "tweet_url": "https://twitter.com/masa_pepepepe/status/1250135757659893760"
+    },
+    {
+        "title": "うたふやうにゆつくりと",
+        "author": "立原道造",
+        "seiyu": "井上優",
+        "tweet_url": "https://twitter.com/suguru_1204/status/1250142234558599168"
+    },
+    {
+        "title": "羅生門",
+        "author": "芥川龍之介",
+        "seiyu": "りゅー",
+        "tweet_url": "https://twitter.com/ryuvoice0/status/1250221778850308096"
+    },
+    {
+        "title": "やまなし",
+        "author": "宮沢賢治",
+        "seiyu": "小街かのん",
+        "tweet_url": "https://twitter.com/kyanonn22/status/1250223904020258816"
+    },
+    {
+        "title": "夜",
+        "author": "竹久夢二",
+        "seiyu": "山下薫平",
+        "tweet_url": "https://twitter.com/kunpei_voice/status/1250234616314646528"
+    },
+    {
+        "title": "王様と靴屋",
+        "author": "新美南吉",
+        "seiyu": "大友俊",
+        "tweet_url": "https://twitter.com/orshu0213/status/1250279295030710273"
+    },
+    {
+        "title": "オシャベリ姫",
+        "author": "夢野久作",
+        "seiyu": "新谷真弓",
+        "tweet_url": "https://twitter.com/shintanimayumi/status/1250286826469781504"
+    },
+    {
+        "title": "今昔物語集 巻23第15「陸奥前司 橘則光、人を切り殺ししこと」",
+        "author": "不詳",
+        "seiyu": "藤本たかひろ",
+        "tweet_url": "https://twitter.com/TAKAPIROjapan/status/1250301733047111681"
+    },
+    {
+        "title": "ああしんど",
+        "author": "池田蕉園",
+        "seiyu": "上間江望",
+        "tweet_url": "https://twitter.com/uemaemi/status/1250317709658603522"
+    },
+    {
+        "title": "ナガレボシ",
+        "author": "新美南吉",
+        "seiyu": "上間江望",
+        "tweet_url": "https://twitter.com/uemaemi/status/1250317755565268993"
+    },
+    {
+        "title": "デンデンムシノカナシミ",
+        "author": "新美南吉",
+        "seiyu": "岬更夜",
+        "tweet_url": "https://twitter.com/misaki_koya/status/1250358725434462208"
+    },
+    {
+        "title": "嘘つき",
+        "author": "komomo",
+        "seiyu": "YU-A☆",
+        "tweet_url": "https://twitter.com/matyan96nyanko/status/1250364866340065280"
+    },
+    {
+        "title": "星の銀貨",
+        "author": "グリム兄弟",
+        "seiyu": "岩村琴美",
+        "tweet_url": "https://twitter.com/chibi_koto/status/1250367793196752901"
+    },
+    {
+        "title": "飴だま",
+        "author": "新美南吉",
+        "seiyu": "菱田盛之",
+        "tweet_url": "https://twitter.com/Nurikabesan/status/1250375225071374336"
+    },
+    {
+        "title": "あかずきん",
+        "author": "グリム兄弟",
+        "seiyu": "金澤まい, 橋本ちなみ",
+        "tweet_url": "https://twitter.com/chinamai_radio/status/1250378622755459073"
+    },
 
 
 ];
 
-const booksLastUpdate = "2020-04-14T13:00:52.093Z";
+const booksLastUpdate = "2020-04-15T11:28:54.261Z";
 
 /* Template
 
