@@ -1326,11 +1326,221 @@ var books = [
         "seiyu": "金澤まい, 橋本ちなみ",
         "tweet_url": "https://twitter.com/chinamai_radio/status/1250378622755459073"
     },
+    {
+        "title": "デンデンムシノカナシミ",
+        "author": "新美南吉",
+        "seiyu": "小松卓矢",
+        "tweet_url": "https://twitter.com/komaT725/status/1250391237233790981"
+    },
+    {
+        "title": "巨男の話",
+        "author": "新美南吉",
+        "seiyu": "冬華怜奈",
+        "tweet_url": "https://twitter.com/rosenengelleyna/status/1250398616054673408"
+    },
+    {
+        "title": "注文の多い料理店",
+        "author": "宮沢賢治",
+        "seiyu": "半蔵門いち丸",
+        "tweet_url": "https://twitter.com/hanzo_mon10/status/1250414321697320960"
+    },
+    {
+        "title": "賢者の贈り物",
+        "author": "オー・ヘンリー",
+        "seiyu": "ささきのぞみ",
+        "tweet_url": "https://twitter.com/nozooooo/status/1250424374001201152"
+    },
+    {
+        "title": "どじょうと金魚",
+        "author": "小川未明",
+        "seiyu": "太田彩華",
+        "tweet_url": "https://twitter.com/ota__ayaka/status/1250425520996536326"
+    },
+    {
+        "title": "二ひきの蛙",
+        "author": "新美南吉",
+        "seiyu": "藤川茜",
+        "tweet_url": "https://twitter.com/akane_fujikawa/status/1250442690568704005"
+    },
+    {
+        "title": "セロ弾きのゴーシュ",
+        "author": "宮沢賢治",
+        "seiyu": "杉田智和, 他",
+        "tweet_url": "https://twitter.com/AGRS_staff/status/1250446460639838211"
+    },
+    {
+        "title": "The Tale of Ginger and Pickles", // 日本国内においては著作権が失効しています
+        "author": "ベアトリクス・ポッター (Beatrix Potter)",
+        "seiyu": "Mayumi K",
+        "tweet_url": "https://twitter.com/MyYouMeee/status/1250561186887872517"
+    },
+    {
+        "title": "手紙",
+        "author": "竹内浩三",
+        "seiyu": "上池仁容",
+        "tweet_url": "https://twitter.com/1vu13LPK90dd3XK/status/1250579514091925505"
+    },
+    {
+        "title": "モネの絵本　太陽とおいかけっこ",
+        "author": "結城昌子",
+        "seiyu": "堤裕子",
+        "tweet_url": "https://twitter.com/yuco223/status/1250598218510958593"
+    },
+    {
+        "title": "あひるさんとつるさん",
+        "author": "村山籌子",
+        "seiyu": "井上喜久子",
+        "tweet_url": "https://twitter.com/atmanbow_staff/status/1250656327602368512"
+    },
+    {
+        "title": "太陽は見ている",
+        "author": "黒崎真音",
+        "seiyu": "清家光亮",
+        "tweet_url": "https://twitter.com/kosuke_seike/status/1250656340499763201"
+    },
+    {
+        "title": "キャラメルと飴玉",
+        "author": "夢野久作",
+        "seiyu": "よーこ",
+        "tweet_url": "https://twitter.com/sun_y0k0/status/1250662271463743488"
+    },
+    {
+        "title": "飴だま",
+        "author": "新美南吉",
+        "seiyu": "樋口亜見, 小林崇也",
+        "tweet_url": "https://twitter.com/kintami315/status/1250670067475341313"
+    },
+    {
+        "title": "女仙",
+        "author": "芥川龍之介",
+        "seiyu": "丸山ナオミ",
+        "tweet_url": "https://twitter.com/ma_ru_naomi/status/1250670505125789696"
+    },
+    {
+        "title": "料理人の第一歩",
+        "author": "北大路魯山人",
+        "seiyu": "菱田盛之",
+        "tweet_url": "https://twitter.com/Nurikabesan/status/1250694935319203840"
+    },
+    {
+        "title": "太陽は見ている",
+        "author": "黒崎真音",
+        "seiyu": "大城盛東",
+        "tweet_url": "https://twitter.com/14_morito/status/1250713241115746304"
+    },
+    {
+        "title": "ランプの夜",
+        "author": "新美南吉",
+        "seiyu": "金澤まい, 篠田みなみ, 橋本ちなみ",
+        "tweet_url": "https://twitter.com/chinamai_radio/status/1250741209120649216"
+    },
+    {
+        "title": "みけのごうがいやさん",
+        "author": "小川未明",
+        "seiyu": "篠田和真",
+        "tweet_url": "https://twitter.com/kazuman525_7/status/1250742540241735680"
+    },
+    {
+        "title": "やまなし",
+        "author": "宮沢賢治",
+        "seiyu": "冬華怜奈",
+        "tweet_url": "https://twitter.com/rosenengelleyna/status/1250746725351870466"
+    },
+    {
+        "title": "うさぎの餅つき",
+        "author": "槇村浩",
+        "seiyu": "篠崎愛",
+        "tweet_url": "https://twitter.com/0sh1n0/status/1250755946831245312"
+    },
+    {
+        "title": "あなうさピーターのはなし",
+        "author": "ベアトリクス・ポッター",
+        "seiyu": "坂上晶",
+        "tweet_url": "https://twitter.com/sakagamisho/status/1250748794351677440"
+    },
+    {
+        "title": "森の神",
+        "author": "夢野久作",
+        "seiyu": "ささきのぞみ",
+        "tweet_url": "https://twitter.com/nozooooo/status/1250801457042841602"
+    },
+    {
+        "title": "チューリップの芽",
+        "author": "小川未明",
+        "seiyu": "芦澤佳純",
+        "tweet_url": "https://twitter.com/kasumi_ashizawa/status/1250804570818658304"
+    },
+    {
+        "title": "太陽は見ている",
+        "author": "黒崎真音",
+        "seiyu": "御幸真菜",
+        "tweet_url": "https://twitter.com/miyuki_mana34/status/1250959671621324801"
+    },
+    {
+        "title": "赤い蝋燭と人魚",
+        "author": "小川未明",
+        "seiyu": "よしはたゆうこ",
+        "tweet_url": "https://twitter.com/aquatanakaz/status/1250988987205840896"
+    },
+    {
+        "title": "夏とおじいさん",
+        "author": "小川未明",
+        "seiyu": "上田燿司",
+        "tweet_url": "https://twitter.com/yo_z_ueda/status/1251028190111256576"
+    },
+    {
+        "title": "飴だま",
+        "author": "新美南吉",
+        "seiyu": "日高のり子, 山口勝平, 山口茜",
+        "tweet_url": "https://twitter.com/nonko_hidaka531/status/1251057855324545024"
+    },
+    {
+        "title": "眠る森のお姫様",
+        "author": "シャルル・ペロー",
+        "seiyu": "こまつりな",
+        "tweet_url": "https://twitter.com/kmtn62/status/1251072911164600321"
+    },
+    {
+        "title": "雨ニモマケズ",
+        "author": "宮沢賢治",
+        "seiyu": "小野原蒼",
+        "tweet_url": "https://twitter.com/onoharaofficial/status/1251076647115059206"
+    },
+    {
+        "title": "ざしき童子のはなし",
+        "author": "宮沢賢治",
+        "seiyu": "髙宮千尋",
+        "tweet_url": "https://twitter.com/chihiro_to_1000/status/1251077053803192320"
+    },
+    {
+        "title": "ねずみの冒険",
+        "author": "小川未明",
+        "seiyu": "冬華怜奈",
+        "tweet_url": "https://twitter.com/rosenengelleyna/status/1251087475516116993"
+    },
+    {
+        "title": "ねずみの嫁入り",
+        "author": "楠山正雄",
+        "seiyu": "寺島惇太",
+        "tweet_url": "https://twitter.com/juntaterashima3/status/1251097129172340738"
+    },
+    {
+        "title": "おおかみと七ひきのこどもやぎ",
+        "author": "グリム兄弟",
+        "seiyu": "金澤まい, 橋本ちなみ",
+        "tweet_url": "https://twitter.com/chinamai_radio/status/1251103252835229697"
+    },
+    {
+        "title": "どんぐりと山猫",
+        "author": "宮沢賢治",
+        "seiyu": "金澤まい, 橋本ちなみ",
+        "tweet_url": "https://twitter.com/chinamai_radio/status/1251104457120595969"
+    },
 
 
 ];
 
-const booksLastUpdate = "2020-04-15T11:28:54.261Z";
+const booksLastUpdate = "2020-04-17T11:19:19.687Z";
 
 /* Template
 
