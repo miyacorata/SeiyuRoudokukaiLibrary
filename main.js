@@ -53,6 +53,7 @@ function getParameter(){
 }
 
 document.addEventListener('DOMContentLoaded',()=>{
+    // Order
     const params = getParameter();
     document.getElementById('main').innerHTML = '';
     console.log('Type : '+params.type);
@@ -76,12 +77,27 @@ document.addEventListener('DOMContentLoaded',()=>{
             viewType = '登録された順';
             break;
     }
-    books.forEach(book => {
-        addBookElement('main',book);
-    });
+    // pagenation
+    const perPage = 100;
+    var currentPage = (typeof params.page === 'undefined') ? 1 : params.page;
+    var pagenation = document.getElementById('pagenation');
+    var pageCount = Math.ceil(books.length / perPage);
+    for(var i = 1; i <= pageCount; i++){
+        var pageButton = document.createElement('a');
+        pageButton.setAttribute('href','?page='+i);
+        pageButton.innerText = i+'ページ';
+        pagenation.appendChild(pageButton);
+    }
+    // rendering
+    for(var i = (currentPage - 1) * perPage ; i < ((currentPage - 1) * perPage) + perPage ; i++){
+        addBookElement('main',books[i]);
+        console.log('add : '+i);
+    }
     var booksLU = new Date(booksLastUpdate);
     document.getElementById('lastUpdate').innerText = '最終更新 : ' + booksLU.toString();
     var booksCount = books.length;
     document.getElementById('booksCount').innerText = '登録数：' + booksCount;
     document.getElementById('viewType').innerText = '表示順：' + viewType.toString();
+    document.getElementById('allPage').innerText = pageCount;
+    document.getElementById('currentPage').innerText = currentPage;
 });

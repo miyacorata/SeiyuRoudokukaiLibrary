@@ -52,7 +52,7 @@ nav > a > span{
     border-bottom-right-radius: 6px;
 }
 
-details{
+details, div#option{
     margin: 10px 0;
     border: solid 5px brown;
     padding: 10px 20px;
@@ -69,14 +69,15 @@ details{
     margin: 0 0 10px;
     border-bottom: dashed 3px brown;
 }
-#option > div{
+#option > div:nth-child(2){
     padding-top: 10px;
 }
 
 fieldset{
+    margin: 10px 0;
     padding: 10px 15px;
 }
-fieldset > a, .button {
+fieldset a, .button {
     padding: 2px 4px;
     color: black;
     text-decoration: none;
@@ -86,6 +87,10 @@ fieldset > a, .button {
 }
 fieldset > a:hover, .button:hover{
     background: lightgray;
+}
+
+#pagenation{
+    padding: 10px 0;
 }
 
 footer{
