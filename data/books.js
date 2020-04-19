@@ -1536,8 +1536,120 @@ var books = [
         "seiyu": "金澤まい, 橋本ちなみ",
         "tweet_url": "https://twitter.com/chinamai_radio/status/1251104457120595969"
     },
-
-
+    {
+        "title": "懐中時計",
+        "author": "夢野久作",
+        "seiyu": "空見ゆき",
+        "tweet_url": "https://twitter.com/me_yukisora/status/1251110008525336577"
+    },
+    {
+        "title": "ひばりのおじさん",
+        "author": "小川未明",
+        "seiyu": "芦原光",
+        "tweet_url": "https://twitter.com/AshiharaE/status/1251157464369659904"
+    },
+    {
+        "title": "蜘蛛の糸",
+        "author": "芥川龍之介",
+        "seiyu": "丸山智行",
+        "tweet_url": "https://twitter.com/souya_kazuki/status/1251349021697822726"
+    },
+    {
+        "title": "飴だま",
+        "author": "新美南吉",
+        "seiyu": "阿部支帆子",
+        "tweet_url": "https://twitter.com/aaabeeechaaan/status/1251390937902669826"
+    },
+    {
+        "title": "梅のにおい",
+        "author": "夢野久作",
+        "seiyu": "ささきのぞみ",
+        "tweet_url": "https://twitter.com/nozooooo/status/1251425468814745602"
+    },
+    {
+        "title": "うた時計",
+        "author": "新美南吉",
+        "seiyu": "蘆薈",
+        "tweet_url": "https://twitter.com/cv_rokai/status/1251438763781177344"
+    },
+    {
+        "title": "雨ニモマケズ",
+        "author": "宮沢賢治",
+        "seiyu": "小林崇也, 樋口亜見",
+        "tweet_url": "https://twitter.com/kintami315/status/1251437261738008577"
+    },
+    {
+        "title": "あなうさピーターのはなし",
+        "author": "ベアトリクス・ポッター",
+        "seiyu": "川上千尋",
+        "tweet_url": "https://twitter.com/chihiro_sjb/status/1251450399049101314"
+    },
+    {
+        "title": "探偵VSスパイ",
+        "author": "渡辺浩弐",
+        "seiyu": "秋長由佳梨",
+        "tweet_url": "https://twitter.com/akinaga_yukari/status/1251457115509551105"
+    },
+    {
+        "title": "ざしき童子のはなし",
+        "author": "宮沢賢治",
+        "seiyu": "安積亮",
+        "tweet_url": "https://twitter.com/azurio511/status/1251475618287370241"
+    },
+    {
+        "title": "むりつむり",
+        "author": "鈴",
+        "seiyu": "木本景子",
+        "tweet_url": "https://twitter.com/ke_ko26/status/1251452137730486273"
+    },
+    {
+        "title": "蟹のしょうばい",
+        "author": "新美南吉",
+        "seiyu": "長塚佳子",
+        "tweet_url": "https://twitter.com/nyagatsuka/status/1251682051494866944"
+    },
+    {
+        "title": "ねずみの冒険",
+        "author": "小川未明",
+        "seiyu": "冬華怜奈",
+        "tweet_url": "https://twitter.com/rosenengelleyna/status/1251705763778539521"
+    },
+    {
+        "title": "やまなし",
+        "author": "宮沢賢治",
+        "seiyu": "小街かのん",
+        "tweet_url": "https://twitter.com/kyanonn22/status/1251728083205320704"
+    },
+    {
+        "title": "にじの歌",
+        "author": "小川未明",
+        "seiyu": "上池仁容",
+        "tweet_url": "https://twitter.com/1vu13LPK90dd3XK/status/1251744840783507456"
+    },
+    {
+        "title": "指",
+        "author": "江戸川乱歩",
+        "seiyu": "菱田盛之",
+        "tweet_url": "https://twitter.com/Nurikabesan/status/1251792592431230977"
+    },
+    {
+        "title": "赤ずきんちゃん",
+        "author": "グリム兄弟",
+        "seiyu": "よーこ",
+        "tweet_url": "https://twitter.com/sun_y0k0/status/1251802516733308930"
+    },
+    {
+        "title": "蜘蛛となめくじと狸",
+        "author": "宮沢賢治",
+        "seiyu": "あきやまかおる",
+        "tweet_url": "https://twitter.com/hakokao/status/1251808635308503049"
+    },
+    {
+        "title": "ボウボウ山のドラゴンちゃん",
+        "author": "眼珠天蚕",
+        "seiyu": "眼珠天蚕",
+        "tweet_url": "https://twitter.com/yamamai_m/status/1251435363731734528"
+    },
 ];
 
 const booksLastUpdate = "2020-04-17T11:19:19.687Z";
