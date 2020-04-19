@@ -90,6 +90,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     }
     // rendering
     for(var i = (currentPage - 1) * perPage ; i < ((currentPage - 1) * perPage) + perPage ; i++){
+        if(typeof books[i] === 'undefined')break;
         addBookElement('main',books[i]);
         console.log('add : '+i);
     }
